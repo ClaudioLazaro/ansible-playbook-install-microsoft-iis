@@ -1,0 +1,5 @@
+---
+# Install Microsoft IIS
+- name: Install Microsoft IIS 
+  roles:
+    - microsoft_iis
